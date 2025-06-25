@@ -12,8 +12,8 @@ interface TableState {
 
 const initialState: TableState = {
   data: [
-    { Name: 'Alice', Email: 'alice@example.com', Age: 28, Role: 'Engineer' },
-    { Name: 'Bob', Email: 'bob@example.com', Age: 34, Role: 'Manager' }
+    { Name: 'Ayush', Email: 'ayush.com', Age: 22, Role: 'Engineer' },
+    { Name: 'rohn', Email: 'roham2@.com', Age: 21, Role: 'Manager' }
   ],
   columns: ['Name', 'Email', 'Age', 'Role'],
   visibleColumns: ['Name', 'Email', 'Age', 'Role'],
